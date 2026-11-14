@@ -1,0 +1,15 @@
+node_modules
+node_modules/
+dist
+dist/
+.env
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+/attached_assets
+data/
+data/*.db
+data/*.db-*
+/NS-Staff-Cloud
+/docs

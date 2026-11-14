@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "Declare"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "suggestions": "Suggestions",
+    "users": "Users",
+    "tags": "Tags",
+    "audit": "Audit",
+    "settings": "Settings"
+  },
+  "search": {
+    "searchSuggestions": "Search suggestions...",
+    "searchUsers": "Search users...",
+    "searchTags": "Search tags..."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved."
+  },
+  "admin": {
+    "login": {
+      "title": "Declare",
+      "subtitle": "Suggestion management panel",
+      "rolePicker": "Dev Role Picker",
+      "allowed": "Allowed",
+      "denied": "Denied",
+      "signIn": "Sign in with Vare",
+      "authenticating": "Authenticating...",
+      "errorDenied": "Sign-in was cancelled or denied.",
+      "errorOauth": "Vare sign-in failed. Try again."
+    },
+    "accessDenied": {
+      "title": "Access Denied",
+      "message": "Your role does not have permission to access the Declare panel. This area is restricted to administrators.",
+      "tryAgain": "Try a different account"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "suggestions": "Suggestions",
+      "users": "Users",
+      "tags": "Tags",
+      "audit": "Audit",
+      "settings": "Settings",
+      "logout": "Log out"
+    },
+    "common": {
+      "delete": "Delete",
+      "deleting": "Deleting…",
+      "cancel": "Cancel",
+      "save": "Save",
+      "reset": "Reset",
+      "deleteTitle": "Delete permanently?",
+      "deleteDescription": "This action cannot be undone.",
+      "deleted": "Deleted",
+      "deleteFailed": "Delete failed",
+      "back": "Back"
+    },
+    "notFound": {
+      "back": "Back to panel"
+    }
+  }
+}
